@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fintech2020</string>
+    <string name="tab_section_random">Случайные</string>
+    <string name="tab_section_latest">Последние</string>
+    <string name="tab_section_hot">Горячие</string>
+    <string name="tab_section_top">Лучшие</string>
+    <string name="tab_section_fev">Избранные</string>
+    <string name="error_text">Произошла ошибка загрузки данных. Проверьте подключение к сети.</string>
+
+    <string name="description">"%1$s"</string>
+    <string name="additional">Автор: %1$s\n%2$s</string>
+    <string name="counter">%1$s/%2$s</string>
+</resources>
